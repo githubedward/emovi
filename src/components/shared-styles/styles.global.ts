@@ -17,6 +17,10 @@ export default createGlobalStyle`
   }
 `;
 
+export const lobsterFont = css`
+  font-family: "Lobster", cursive;
+`;
+
 export const borderBox = css`
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;

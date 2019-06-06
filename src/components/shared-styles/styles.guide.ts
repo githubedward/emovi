@@ -21,6 +21,6 @@ export const color = {
   extralightgray: `#f9f9f9`,
 
   theme1: `#FFF06A`,
-  theme2: `#F62D14`,
-  theme3: `#E19720`
+  theme2: `#F54B0C`,
+  theme3: `#FE9F51`
 };
