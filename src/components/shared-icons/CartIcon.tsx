@@ -16,3 +16,5 @@ const CartIcon = ({ className }: TProps): JSX.Element => {
     </svg>
   );
 };
+
+export default CartIcon;
